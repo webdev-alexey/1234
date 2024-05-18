@@ -1,0 +1,34 @@
+{
+  "520e1b15-94e3-42a2-ae16-135b0a77186e": {
+    "items": [
+      {
+        "productId": 2,
+        "quantity": 4
+      },
+      {
+        "productId": 16,
+        "quantity": 2
+      }
+    ]
+  },
+  "f05e773d-dd43-436a-bdbe-3d6d7d05df94": {
+    "items": [
+      {
+        "productId": 40,
+        "quantity": 4
+      },
+      {
+        "productId": 39,
+        "quantity": 1
+      },
+      {
+        "productId": 38,
+        "quantity": 1
+      },
+      {
+        "productId": 42,
+        "quantity": 1
+      }
+    ]
+  }
+}
